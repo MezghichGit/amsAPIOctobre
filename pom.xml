@@ -13,7 +13,7 @@
 	<artifactId>amsAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>amsAPI</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>Projet 2 - FullStack Spring Boot + Angular</description>
 	<properties>
 		<java.version>1.8</java.version>
